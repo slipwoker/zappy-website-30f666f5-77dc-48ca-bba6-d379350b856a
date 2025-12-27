@@ -1,0 +1,57 @@
+# Vibe Match — Generative Engine Optimization Map
+
+> A social networking/events business.
+
+---
+
+## Pages
+
+### Home
+https://vibe-match-30f666f5.zappy5.app
+Discover the ultimate qr code decoder for real-time matchmaking at events. Join Vibe Match today!
+
+### Services
+https://vibe-match-30f666f5.zappy5.app/services
+Professional qr code camera services for events. Comprehensive admin management and real-time matchmaking solutions.
+
+### About
+https://vibe-match-30f666f5.zappy5.app/about
+Learn about Vibe Match's mission to revolutionize event networking with innovative qr decoder technology.
+
+### Contact
+https://vibe-match-30f666f5.zappy5.app/contact
+Contact Vibe Match for qr code samsung compatible solutions and expert event matchmaking support.
+
+## Legal & Policy
+
+### Privacy Policy
+https://vibe-match-30f666f5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://vibe-match-30f666f5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://vibe-match-30f666f5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Vibe Match
+Vibe Match is a business in the social networking/events industry.
+
+## Target Audience
+party guests looking for matches
+
+## Industry
+social networking/events
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://vibe-match-30f666f5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://vibe-match-30f666f5.zappy5.app/robots.txt

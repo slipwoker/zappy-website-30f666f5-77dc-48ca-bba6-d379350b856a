@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vibe-match-30f666f5.zappy5.app/sitemap.xml
